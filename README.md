@@ -5,7 +5,7 @@
 
 - 🔭 Full-stack Web3 Developer.
 
-- 🌱 I’m currently improving my **Solidity** and **React** skills by developing dApp projects.
+- 🌱 I’m currently improving my **Solidity** and **React** skills by developing dApps.
 
 - 💻 I run nodes on mainnets and testnets to validate blockchains.
 
