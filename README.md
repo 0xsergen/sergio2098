@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate Web3 developer</h3>
+<h3 align="center">A passionate Smart Contract - Blockchain developer</h3>
 
 <p align="left"> <a href="https://twitter.com/sergio_2098" target="blank"><img src="https://img.shields.io/twitter/follow/sergio_2098?logo=twitter&style=for-the-badge" alt="sergio_2098" /></a> </p>
 
-- 🔭 Full-stack Web3 Developer.
+- 🔭 Full-stack Blockchain Developer who develops decentralized applications, attends practicums and courses, has experiences on DeFi, NFT, GameFi, and tokenomics.
 
-- 🌱 I’m currently improving my **Solidity** and **React** skills by developing dApps.
-
-- 💻 I run nodes on mainnets and testnets to validate blockchains.
+- 🌱 I’m currently developing dApps, attending practicums and courses.
 
 - 📝 I regularly write articles on [sergio2098.hashnode.dev/](sergio2098.hashnode.dev/)
+
+- 💻 I run nodes on mainnets and testnets to validate blockchains.
 
 - 💬 Ask me about **js, solidity, react and web3-related (DeFi, NFT, Tokenomics) topics.**
 
