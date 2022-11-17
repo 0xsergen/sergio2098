@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sergio</h1>
+<h1 align="center">Hi 👋, I'm Sergen</h1>
 <h3 align="center">A passionate Smart Contract - Blockchain developer</h3>
 
-<p align="left"> <a href="https://twitter.com/0xsergen" target="blank"><img src="https://img.shields.io/twitter/follow/sergio_2098?logo=twitter&style=for-the-badge" alt="sergio_2098" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xsergen" target="blank"><img src="https://img.shields.io/twitter/follow/0xsergen?logo=twitter&style=for-the-badge" alt="0xsergen" /></a> </p>
 
-- 🔭 Full-stack Blockchain Developer who develops decentralized applications, attends practicums and courses, has experiences on DeFi, NFT, GameFi, and tokenomics.
+- 🔭 Full-stack Blockchain Developer who develops decentralized applications, has experiences on DeFi, NFT, GameFi, and tokenomics.
 
 - 🌱 I’m currently developing dApps, attending practicums and courses.
 
-- 📝 I regularly write articles on [sergio2098.hashnode.dev/](sergio2098.hashnode.dev/)
+- 📝 I regularly write articles on [sergen.hashnode.dev/](sergen.hashnode.dev/)
 
 - 💻 I run nodes on mainnets and testnets to validate blockchains.
 
 - 💬 Ask me about **js, solidity, react and web3-related (DeFi, NFT, Tokenomics) topics.**
 
-- 📫 How to reach me **sergio2098crypto@gmail.com** or **https://t.me/sergio_2098**
+- 📫 How to reach me **https://t.me/sergen0x**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sergio_2098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergio_2098" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sergio2098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sergio2098" height="30" width="40" /></a>
-<a href="https://medium.com/@sergio2098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sergio2098" height="30" width="40" /></a>
+<a href="https://twitter.com/0xsergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsergen" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sergen" height="30" width="40" /></a>
+<a href="https://medium.com/@0xsergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xsergen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools for Web3:</h3>
